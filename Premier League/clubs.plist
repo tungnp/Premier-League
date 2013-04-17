@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>logo</key>
+		<string>MU</string>
+		<key>name</key>
+		<string>Manchester United</string>
+		<key>coach name</key>
+		<string>Alex Ferguson</string>
+		<key>score</key>
+		<string>20</string>
+		<key>players</key>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>Paul Aaron Scholes</string>
+				<key>shirt number</key>
+				<integer>22</integer>
+				<key>image</key>
+				<string>scholes paul.jpg</string>
+				<key>number of goals</key>
+				<integer>10</integer>
+				<key>position</key>
+				<string>tien ve</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Robin van Persie</string>
+				<key>shirt number</key>
+				<string>10</string>
+				<key>image</key>
+				<string>van persie robin.jpg</string>
+				<key>number of goals</key>
+				<string>20</string>
+				<key>position</key>
+				<string>tien dao</string>
+			</dict>
+			<dict/>
+			<dict/>
+		</array>
+	</dict>
+	<dict/>
+	<dict/>
+	<dict/>
+	<dict/>
+	<dict/>
+	<dict/>
+	<dict/>
+	<dict/>
+	<dict/>
+	<dict/>
+</array>
+</plist>
